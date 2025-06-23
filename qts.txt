@@ -1,0 +1,109 @@
+“Linux is only free if your time has no value.” — Jamie Zawinski
+“The Linux philosophy is ‘laugh in the face of danger’. Oops. Wrong one. ‘Do it yourself’. Yes, that’s it.” — Linus Torvalds
+“Linux is user-friendly. It’s just very selective about who its friends are.”
+“With great open source comes great responsibility.”
+“Linux: because rebooting is for installing hardware.”
+“Using Linux is like living in a house where you get to build the furniture.”
+“In a world without fences and walls, who needs Gates and Windows?”
+“The only thing harder than using Linux is trying to live without it after.”
+“On Linux, every problem is an opportunity to learn the system.”
+“I use Arch, btw.”
+“Talk is cheap. Show me the code.” — Linus Torvalds
+“Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson
+“First, solve the problem. Then, write the code.” — John Johnson
+“Code is like humor. When you have to explain it, it’s bad.” — Cory House
+“Good code is its own best documentation.” — Steve McConnell
+“There are two ways to write error-free programs; only the third one works.” — Alan J. Perlis
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+“If debugging is the process of removing software bugs, then programming must be the process of putting them in.” — Edsger Dijkstra
+“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.” — Norman Augustine
+“A good programmer is someone who always looks both ways before crossing a one-way street.” — Doug Linder
+“Unix is simple. It just takes a genius to understand its simplicity.” — Dennis Ritchie
+“Walking on water and developing software from a specification are easy if both are frozen.” — Edward V. Berard
+“Shell scripting is the duct tape of the Linux world.”
+“In Linux we trust.”
+“Fear the penguin.”
+“There is no place like /home.”
+“rm -rf / — The last command you’ll ever run.”
+“Keep calm and sudo apt install.”
+“Think like a programmer. Sleep like a sysadmin.”
+“Coding is poetry for machines.”
+“Life is too short for bad code.”
+“Embrace the terminal.”
+“A bug in the code is worth two in the documentation.”
+“Simplicity is the soul of efficiency.” — Austin Freeman
+“Never underestimate the bandwidth of a station wagon full of tapes.” — Andrew S. Tanenbaum
+“There’s no place like 127.0.0.1.”
+“Without deviation from the norm, progress is not possible.” — Frank Zappa
+“Coding is not just a skill, it’s a superpower.”
+“sudo: the most powerful word in Linux.”
+“Eat, sleep, code, repeat.”
+“Hello world is the beginning of every legend.”
+“The terminal never lies.”
+“You don’t learn to walk by following rules. You learn by doing, and by falling over.” — Richard Branson
+“Programming is the art of algorithm design and the craft of debugging errant code.” — Ellen Ullman
+“A Linux user is a person who believes one operating system isn’t complicated enough.”
+“Linux doesn’t crash. It just fails gracefully.”
+“Command-line is where the magic happens.”
+“If you can’t open it, you don’t own it.”
+“Hack the planet — responsibly.”
+“Open source is the future, and the future is now.”
+“Linux is not an OS, it’s a way of life.”
+“Coding is the closest thing we have to a superpower.” — Drew Houston
+“Git happens.”
+“Ctrl+C, Ctrl+V — A developer’s best friend.”
+“There's elegance in minimal code.”
+“Make it work, make it right, make it fast.” — Kent Beck
+“Linux is freedom, plain and simple.”
+“Commit often, push once.”
+“Think open, think Linux.”
+“Software is a gas; it expands to fill its container.” — Nathan Myhrvold
+“Coding: the only job where you stare at a screen for hours and call it productivity.”
+“grep is my therapist.”
+“vim is where fingers go to die.”
+“Linux is for people who want control. Mac is for people who don’t care. Windows is for people who don’t know.”
+“A reboot a day keeps the sysadmin away — unless it’s Linux.”
+“Welcome to /dev/null — Population: your logs.”
+“Sleep is a function, and I forgot to call it.”
+“Real developers ship.” — Joel Spolsky
+“Linux is the OS of choice for the discerning hacker.”
+“There is beauty in clean code.”
+“System.out.println(‘Hello, World!’); — the incantation of creation.”
+“Only two things are infinite: the universe and software bugs.” — (Paraphrased Einstein)
+“A terminal a day keeps the GUI away.”
+“Real sysadmins use cat to read books.”
+“Hackers do it in the shell.”
+“Use the source, Luke.”
+“There’s no patch for human stupidity.”
+“In code we trust.”
+“Linux is like a box of LEGO — build your own world.”
+“chmod 777 makes everything work... and breaks everything else.”
+“Kernel panic is the sound of adventure.”
+“rm -rf / is the reason backups exist.”
+“Systemd broke my heart.”
+“Nothing teaches better than broken code.”
+“Coding is dreaming in logic.”
+“Fix one bug, add two.”
+“Error 404: Sleep not found.”
+“I dream in regex.”
+“Keep your code clean and your logs cleaner.”
+“Linux users have a root-only attitude.”
+“Compile, crash, repeat.”
+“Make it compile. Then worry.”
+“Programming is like writing a book… except if you miss a single comma on page 126, the whole thing makes no sense.”
+“Code like nobody's watching. Because they aren’t — they’re debugging.”
+“Linux is for those who think outside the (window).”
+“Don’t comment bad code — rewrite it.” — Brian Kernighan
+“Linux doesn’t need antivirus — it has users who read the manual.”
+“You don’t use Linux. You become Linux.”
+“Every ‘if’ needs an ‘else’. Just like every dev needs a break.”
+“Programmers don't die — they just go offline.”
+“Shell scripts: making sysadmins gods since forever.”
+“Fedora, Arch, Debian — the holy trinity.”
+“Software should be free as in freedom, not just free as in beer.” — Richard Stallman
+“Coding: because therapy is too expensive.”
+“dmesg is like Linux gossip.”
+“sudo rm -rf --no-preserve-root / — the nuclear option.”
+“Welcome to the dark side. We use Linux.”
+“Everything is a file in Linux. Even your fate.”
+“Linux is the answer. But what was the question?”
